@@ -9,18 +9,10 @@ Welcome to Python's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   :glob:
-   install
-   management_commands
-   settings
-   overview
-   meta
-   roadmap
 
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
