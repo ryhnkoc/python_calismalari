@@ -9,7 +9,7 @@ Welcome to Deneme's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   Deneme
+
 
 
 Indices and tables
