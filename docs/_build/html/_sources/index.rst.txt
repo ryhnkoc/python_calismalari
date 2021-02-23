@@ -35,6 +35,7 @@ Table Of Contents
 .. toctree::
    :name: index
    :maxdepth: 2
+.. _contents:
     Kod Ornekleri<code_examples>
 
 

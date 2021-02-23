@@ -1,6 +1,9 @@
-Table Of Contents
-=================
+Library Installation
+====================
 
-.. toctree::
-   :maxdepth: 2
-    Kod Örnekleri<code_examples>
+.. code-block:: bash
+
+   $ pip install aiohttp
+
+You may want to install *optional* :term:`cchardet` library as faster
+replacement for :term:`chardet`:

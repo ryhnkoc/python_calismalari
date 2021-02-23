@@ -18,20 +18,9 @@ Current version is |release|.
 
 .. _GitHub: https://github.com/aio-libs/aiohttp
 
-Key Features
-============
-
-- Supports both :ref:`aiohttp-client` and :ref:`HTTP Server <aiohttp-web>`.
-- Supports both :ref:`Server WebSockets <aiohttp-web-websockets>` and
-  :ref:`Client WebSockets <aiohttp-client-websockets>` out-of-the-box
-  without the Callback Hell.
-- Web-server has :ref:`aiohttp-web-middlewares`,
-  :ref:`aiohttp-web-signals` and plugable routing.
-
 
 Table Of Contents
 =================
-
 .. toctree::
    :name: index
    :maxdepth: 2
