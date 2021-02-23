@@ -3,6 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+==================================
 Welcome to Python's documentation!
 ==================================
 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -12,16 +13,28 @@ It has survived not only five centuries, but also the leap into electronic types
 remaining essentially unchanged. It was popularised in the 1960s with the release of
 Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like
 Aldus PageMaker including versions of Lorem Ipsum.
+
 Current version is |release|.
-.. Github: https://github.com/aio-libs/aiohttp
 
+.. _GitHub: https://github.com/aio-libs/aiohttp
 
+Key Features
+============
+
+- Supports both :ref:`aiohttp-client` and :ref:`HTTP Server <aiohttp-web>`.
+- Supports both :ref:`Server WebSockets <aiohttp-web-websockets>` and
+  :ref:`Client WebSockets <aiohttp-client-websockets>` out-of-the-box
+  without the Callback Hell.
+- Web-server has :ref:`aiohttp-web-middlewares`,
+  :ref:`aiohttp-web-signals` and plugable routing.
 
 
 Table Of Contents
 =================
+
 .. toctree::
+   :name: index
    :maxdepth: 2
-   Kod Örnekleri<code_examples>
+    Kod Ornekleri<code_examples>
 
 
