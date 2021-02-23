@@ -1,4 +1,0 @@
-Deneme Page
-===========
-.. toctree::
-   :maxdepth: 2
