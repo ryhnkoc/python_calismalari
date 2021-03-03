@@ -7,6 +7,8 @@ Welcome to Python Work's documentation!
 =======================================
 
 .. toctree::
+   TopLevel1
+   TopLevel2
    :maxdepth: 2
    :caption: Contents:
 
